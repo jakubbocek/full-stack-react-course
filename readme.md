@@ -1,1 +1,1 @@
-#Full Stack React Developer Course with Appwrite
+Full Stack React Developer Course with Appwrite
