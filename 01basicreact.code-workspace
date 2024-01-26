@@ -1,0 +1,29 @@
+{
+  "folders": [
+    {
+      "path": "01basicreact"
+    },
+    {
+      "path": "customReact"
+    },
+    {
+      "path": "02counter"
+    },
+    {
+      "path": "03tailwindprops"
+    },
+    {
+      "path": "04bgChanger"
+    },
+    {
+      "path": "01basicvite"
+    },
+    {
+      "path": "05passwordGenerator"
+    },
+    {
+      "path": "06currencyconverter"
+    }
+  ],
+  "settings": {}
+}
