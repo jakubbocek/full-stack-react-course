@@ -12,6 +12,18 @@ function InputBox({
   className = "",
 }) {
   const id = useId();
+
+  console.log(
+    label,
+    amount,
+    onAmountChange,
+    onCurrencyChange,
+    currencyOptions,
+    selectedCurrency,
+    amountDisabled,
+    currencyDisabled,
+    className
+  );
   return (
     <div className={`bg-white p-3 rounded-lg text-sm flex${className}`}>
       <div className="w-1-2">

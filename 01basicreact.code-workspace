@@ -23,6 +23,9 @@
     },
     {
       "path": "06currencyconverter"
+    },
+    {
+      "path": "07reactrouter"
     }
   ],
   "settings": {}
